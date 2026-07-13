@@ -23,20 +23,12 @@ This project analyzes sales performance using interactive Power BI dashboards wi
 - Data Modeling
 
 ## Dashboard Screenshots
-### Report 1 - Sales Dashboard
 
-![Report 1](./Sales Dashboard.png)
+![Report 1](./Report1.png)
 
-### Report 2 - Time Intelligence Dashboard
+![Report 2](./Report2.png)
 
-![Report 2](./Time Intelligence Dashboard.png)
+![Report 3](./Report3.png)
 
-### Report 3 - Drill Through Report
-
-![Report 3](./Drill Through Report.png)
-
-### Report 4 - Bookmarks and Navigation Dashboard
-
-![Report 4](./Bookmarks and Navigation Dashboard.png)
-
+![Report 4](./Report4.png)
 
